@@ -1,6 +1,7 @@
 ![image](https://github.com/akadkol05/Bitcoin_exchanger_reactapp/assets/81400895/b71fede9-14a5-44e7-bc01-815796cf7250)
 
 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
