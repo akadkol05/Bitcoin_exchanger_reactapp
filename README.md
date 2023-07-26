@@ -1,6 +1,7 @@
 
 
-Uploading Recording 2023-07-27 011012.mp4…
+
+https://github.com/akadkol05/Bitcoin_exchanger_reactapp/assets/81400895/266f1e31-a934-48e9-97be-09c3c0047bd9
 
 
 ![image](https://github.com/akadkol05/Bitcoin_exchanger_reactapp/assets/81400895/b71fede9-14a5-44e7-bc01-815796cf7250)
